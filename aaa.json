@@ -2,91 +2,91 @@
   {
     "rank": 1,
     "name": "יעקב",
-    "score": 63
+    "score": 64
   },
   {
     "rank": 2,
+    "name": "אפרת",
+    "score": 62
+  },
+  {
+    "rank": 3,
+    "name": "דן",
+    "score": 59
+  },
+  {
+    "rank": "-",
     "name": "אוהד",
     "score": 59
   },
   {
     "rank": "-",
-    "name": "אפרת",
+    "name": "מאור רובינוב",
     "score": 59
   },
   {
-    "rank": 4,
-    "name": "דן",
-    "score": 56
-  },
-  {
-    "rank": 5,
-    "name": "מאור רובינוב",
-    "score": 55
-  },
-  {
     "rank": 6,
+    "name": "דמיאן",
+    "score": 58
+  },
+  {
+    "rank": 7,
     "name": "שרון",
-    "score": 53
+    "score": 57
   },
   {
     "rank": "-",
     "name": "ליהי",
-    "score": 53
-  },
-  {
-    "rank": 8,
-    "name": "דמיאן",
-    "score": 52
+    "score": 57
   },
   {
     "rank": 9,
     "name": "אכ\"ש",
-    "score": 51
+    "score": 54
   },
   {
     "rank": "-",
     "name": "מאור בין",
-    "score": 51
+    "score": 54
   },
   {
     "rank": 11,
     "name": "ייטב",
-    "score": 50
+    "score": 53
   },
   {
     "rank": "-",
     "name": "יובל",
-    "score": 50
+    "score": 53
   },
   {
-    "rank": "-",
+    "rank": 13,
+    "name": "ניר ונטע",
+    "score": 52
+  },
+  {
+    "rank": 14,
     "name": "אלעד",
     "score": 50
   },
   {
-    "rank": 14,
-    "name": "ניר ונטע",
-    "score": 48
-  },
-  {
-    "rank": 15,
+    "rank": "-",
     "name": "קזז",
-    "score": 46
+    "score": 50
   },
   {
     "rank": 16,
     "name": "ברוש",
-    "score": 44
+    "score": 48
   },
   {
     "rank": 17,
     "name": "אייל",
-    "score": 41
+    "score": 44
   },
   {
     "rank": 18,
     "name": "יותם",
-    "score": 40
+    "score": 43
   }
 ]
